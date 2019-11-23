@@ -1,4 +1,3 @@
 # hello-world
-Just a repository example
-Hey! I like python and Linux and this is my fist README.md on Github
-I'm so excited!
+This is my beginner repositoy for simple scripts in python.
+I aim to help beginners coders python.
